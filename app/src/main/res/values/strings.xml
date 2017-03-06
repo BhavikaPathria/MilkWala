@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MilkWala</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="click_here"><u>Click Here</u>
+    </string>
+    <string name="signinnow">Sign_in_Now</string>
+    <string name="don_t_have_an_account_please_register">Don\'t have an Account? Please Signup</string>
+    <string name="internetconnectionmessage">Internet connection lost \\n\\nPlease check your wifi or mobile network.</string>
+    <string name="feedback">feedback!</string>
+    <string name="ok">OK</string>
+    <string name="emailempty">Please enter Email</string>
+    <string name="passwordempty">Please enter Password</string>
+    <string name="wrongusernamepassword">wrong Username OR Password</string>
+    <string name="pleaseentervalidemail">Please enter Valid EMail</string>
+    <string name="loadingpleasewait">Loading.. Please Wait..</string>
+</resources>
